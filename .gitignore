@@ -12,3 +12,6 @@ build/
 # Virtual environment
 venv/
 .env
+
+# gui
+.spec
