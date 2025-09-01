@@ -58,7 +58,7 @@ Tired of manually sorting files? This tool watches over your specified folders (
 ---
 
 ## 📂 Project Structure
-
+```
 Automated-File-Organizer/
   │
   ├── organizer.py        # Core CLI logic for file organization
